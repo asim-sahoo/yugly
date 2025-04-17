@@ -40,23 +40,8 @@ Yugly is a real-time audio sharing application that allows users to create or jo
 
 ## Screenshots
 
-![Login Screen](./screenshots/Login.jpg)
-*Login screen with email and Google sign-in options*
-
-![Home Screen - Light Theme](./screenshots/LightHome.jpg)
-*Home screen showing available listening rooms in light theme*
-
-![Home Screen - Dark Theme](./screenshots/DarkHome.jpg)
-*Home screen showing available listening rooms in dark theme*
-
-![Listening Room](./screenshots/ListeningRoom.jpg)
-*Active listening room with playback controls and participant list*
-
-![Theme Settings](./screenshots/ThemeSettings.jpg)
-*Theme customization options with various accent colors*
-
-![Room Creation](./screenshots/CreateRoom.jpg)
-*Creating a new listening room with custom name*
+![Screenshot 1](./screenshots/image1.png)
+![Screenshot 2](./screenshots/image2.png)
 
 ## Getting Started
 
